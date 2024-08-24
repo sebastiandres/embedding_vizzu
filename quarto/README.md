@@ -1,4 +1,4 @@
-# Revealjs
+# Quarto
 
 ## Introduction
 Quarto is a tool for creating documents with markdown. It renders an interactive html file, that can be used and shared.

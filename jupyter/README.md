@@ -1,4 +1,4 @@
-# Revealjs
+# Jupyter Notebook + RISE
 
 ## Introduction
 Jupyter notebook with the extension RISE allows to present your cells as a slideshow ([official documentation](https://rise.readthedocs.io/en/latest/)).
@@ -20,4 +20,4 @@ Just include in a markdown cell the iframe with the src pointing to the Vizzu sh
 ```
 
 ## Example?
-Install the libraries and run [example.ipynb](https://sebastiandres.github.io/embedding_vizzu/html/example.ipynb). There is no substitute to actually run the notebook to get the full interativity.
+Install the libraries and run example.ipynb. There is no substitute to actually run the notebook to get the full interativity.
