@@ -1,4 +1,4 @@
-# Embedding Vizzu [website version]https://github.com/sebastiandres/embedding_vizzu/settings/pages)
+# Embedding Vizzu
 
 ## Why?
 
@@ -18,6 +18,6 @@ Different options to embed vizzu on your presentation
 On the cases where an iframe is used, make sure to include ´allow="fullscreen"´ so you can present fullscreen (Thanks Peter!).
 
 ## Links
-* [Github Code](https://github.com/sebastiandres/embedding_vizzu/settings/pages)
+* [Github Code](https://github.com/sebastiandres/embedding_vizzu/)
 * [Github Page](https://sebastiandres.github.io/embedding_vizzu/)
 * [Vizzu.io](https://www.vizzu.io/)
