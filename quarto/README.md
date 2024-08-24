@@ -19,4 +19,4 @@ quarto render example.qmd
 ```
 
 ## Example?
-Look at the [example.html](https://sebastiandres.github.io/embedding_vizzu/quarto/example.html)
+Look at the [example.html](https://sebastiandres.github.io/embedding_vizzu/quarto/example.html), that get's rendered from example.qmd.

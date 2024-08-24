@@ -1,6 +1,5 @@
 # HTML
 
-## Introduction
 Simple, old school, plain html is always an option!
 
 ## When?

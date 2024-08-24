@@ -1,6 +1,5 @@
 # PowerPoint
 
-## Introduction
 Yes, you can even embed vizzu into powerpoint.
 
 ## How to?
