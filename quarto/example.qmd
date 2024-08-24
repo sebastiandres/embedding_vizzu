@@ -1,0 +1,31 @@
+---
+execute:
+  echo: true
+format:
+  revealjs:
+    width: 1200
+    height: 800
+    menu: false
+    controls: true
+    transition: fade
+    auto-stretch: false
+    embed-resources: false
+    toc: false
+    center: true
+    slide-number: false
+    preview-links: false
+    output-file: "example"
+    theme:
+        - simple
+---
+
+## My title
+
+My content
+
+---
+
+## 
+```{=html}
+<iframe allow="fullscreen" width="1200" height="800" src="https://app.vizzu.io/share/story/66a27508fc673fda605c33da-Sample-2-Music"></iframe>
+```
