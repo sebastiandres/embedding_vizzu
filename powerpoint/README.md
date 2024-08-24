@@ -9,5 +9,5 @@ Then, paste the public link into the box and follow the steps.
 
 ## Example?
 Look at the 
-<a href="https://github.com/sebastiandres/embedding_vizzu/raw/main/powerpoint/example.pptx" download>
+<a href="https://github.com/sebastiandres/embedding_vizzu/raw/main/powerpoint/example.pptx" download>example.pptx</a>
   - it will ask you to install the add-in.
