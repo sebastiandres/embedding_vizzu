@@ -1,7 +1,7 @@
 # Revealjs
 
 ## Introduction
-Quarto is a tool for creating documents with markdown.
+Quarto is a tool for creating documents with markdown. It renders an interactive html file, that can be used and shared.
 
 ## How to?
 
@@ -19,3 +19,4 @@ quarto render example.qmd
 ```
 
 ## Example?
+Look at the [example.html](https://sebastiandres.github.io/embedding_vizzu/quarto/example.html)

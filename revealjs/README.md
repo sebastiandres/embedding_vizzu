@@ -16,3 +16,4 @@ Just include in the slide (section) the iframe with the src pointing to the Vizz
 ```
 
 ## Example?
+Look at the [example.html](https://sebastiandres.github.io/embedding_vizzu/revealjs/example.html)

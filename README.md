@@ -9,10 +9,10 @@ You can obtain a public link to share your visualizations with other people, and
 ## Where?
 Different options to embed vizzu on your presentation
 * [HTML](https://sebastiandres.github.io/embedding_vizzu/html/)
-* Jupyter Notebook
-* PowerPoint
-* RevealJS
-* Quarto
+* [Jupyter Notebook](https://sebastiandres.github.io/embedding_vizzu/jupyter/)
+* [RevealJS](https://sebastiandres.github.io/embedding_vizzu/revealjs/)
+* [Quarto](https://sebastiandres.github.io/embedding_vizzu/quarto/)
+* [PowerPoint](https://sebastiandres.github.io/embedding_vizzu/powerpoint/)
 
 ## Observation
 On the cases where an iframe is used, make sure to include ´allow="fullscreen"´ so you can present fullscreen (Thanks Peter!).

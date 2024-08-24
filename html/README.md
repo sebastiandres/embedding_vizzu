@@ -3,8 +3,10 @@
 ## Introduction
 Simple, old school, plain html is always an option!
 
-## How to?
+## When?
+To include a vizzu viz in a blog post, a website, or anywhere plain html is the best option.
 
+## How to?
 Just include in the iframe with the src pointing to the Vizzu share link.
 Play with html options to center it, change the iframe size, etc.
 

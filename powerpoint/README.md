@@ -1,14 +1,11 @@
-# Revealjs
+# PowerPoint
 
 ## Introduction
-Plain html is always an option!
+Yes, you can even embed vizzu into powerpoint.
 
 ## How to?
-
-Just include in the iframe with the src pointing to the Vizzu share link.
-
-```html
-<iframe allow="fullscreen" width="1200" height="800" src="https://app.vizzu.io/share/story/66a27508fc673fda605c33da-Sample-2-Music"></iframe>
-```
+You need to install an add-in on PowerPoint called "Web Viewer". 
+Then, paste the public link into the box and follow the steps.
 
 ## Example?
+Look at the [example.pptx](https://sebastiandres.github.io/embedding_vizzu/revealjs/example.pptx) - it will ask you to install the add-in.
